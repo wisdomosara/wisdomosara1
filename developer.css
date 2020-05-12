@@ -22,11 +22,13 @@ padding:20px;}
     justify-content:space-between
 ;
 flex-wrap:wrap;
+    border-sizing:border-box;
 width:100%;
 height:auto;}
 .figures{width:49%;
     height:auto;
     margin-bottom:10px;
+    border-sizing:border-box;
 background-color:white;}
 figcaption{border:2px solid black;
 padding:20px;}
