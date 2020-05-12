@@ -19,11 +19,12 @@ padding:50px;}
 margin:20px;
 padding:20px;}
 .gallery-flex{display:flex;
-    justify-content:space-evenly;
+    justify-content:space-between
+;
 flex-wrap:wrap;
 width:100%;
 height:auto;}
-.figures{width:35vw;
+.figures{width:49%;
     height:auto;
     margin-bottom:10px;
 background-color:white;}
