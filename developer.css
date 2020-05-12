@@ -25,7 +25,7 @@ flex-wrap:wrap;
     border-sizing:border-box;
 width:100%;
 height:auto;}
-.figures{width:46%;
+.figures{width:43%;
     height:auto;
     margin-bottom:10px;
     border-sizing:border-box;
@@ -52,10 +52,10 @@ padding:20px;}
 footer{background-color: black;
 padding:20px;
 color:white;}
-@media only screen and (max-width:560px){
-   .gallery-flex{flex-direction:column}
-    .figures{
-        width:100%;
-    }
+
+
+
+
+
     
-}
+
